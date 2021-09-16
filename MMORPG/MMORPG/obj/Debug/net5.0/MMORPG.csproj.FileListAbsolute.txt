@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\MMORPG\MMORPG\bin\Debug\net5.0\MMORPG.exe
+C:\Users\Usuario\Desktop\MMORPG\MMORPG\bin\Debug\net5.0\MMORPG.deps.json
+C:\Users\Usuario\Desktop\MMORPG\MMORPG\bin\Debug\net5.0\MMORPG.runtimeconfig.json
+C:\Users\Usuario\Desktop\MMORPG\MMORPG\bin\Debug\net5.0\MMORPG.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\MMORPG\MMORPG\bin\Debug\net5.0\MMORPG.dll
+C:\Users\Usuario\Desktop\MMORPG\MMORPG\bin\Debug\net5.0\ref\MMORPG.dll
+C:\Users\Usuario\Desktop\MMORPG\MMORPG\bin\Debug\net5.0\MMORPG.pdb
+C:\Users\Usuario\Desktop\MMORPG\MMORPG\obj\Debug\net5.0\MMORPG.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\MMORPG\MMORPG\obj\Debug\net5.0\MMORPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\MMORPG\MMORPG\obj\Debug\net5.0\MMORPG.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\MMORPG\MMORPG\obj\Debug\net5.0\MMORPG.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\MMORPG\MMORPG\obj\Debug\net5.0\MMORPG.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\MMORPG\MMORPG\obj\Debug\net5.0\MMORPG.dll
+C:\Users\Usuario\Desktop\MMORPG\MMORPG\obj\Debug\net5.0\ref\MMORPG.dll
+C:\Users\Usuario\Desktop\MMORPG\MMORPG\obj\Debug\net5.0\MMORPG.pdb
+C:\Users\Usuario\Desktop\MMORPG\MMORPG\obj\Debug\net5.0\MMORPG.genruntimeconfig.cache
